@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "32028DCC254AFEA000A537DE"
-               BuildableName = "FLAC.framework"
+               BuildableName = "flac.framework"
                BlueprintName = "iOS"
                ReferencedContainer = "container:flac.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "32028DCC254AFEA000A537DE"
-            BuildableName = "FLAC.framework"
+            BuildableName = "flac.framework"
             BlueprintName = "iOS"
             ReferencedContainer = "container:flac.xcodeproj">
          </BuildableReference>

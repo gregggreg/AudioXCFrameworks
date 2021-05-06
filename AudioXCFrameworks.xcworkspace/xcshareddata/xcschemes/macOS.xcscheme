@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "32028D07254AE93F00A537DE"
-               BuildableName = "FLAC.framework"
+               BuildableName = "flac.framework"
                BlueprintName = "macOS"
                ReferencedContainer = "container:flac/flac.xcodeproj">
             </BuildableReference>
